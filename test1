@@ -2,4 +2,8 @@
 
 5.	Через UI сделать изменение в test1 master branch.
 
+<<<<<<< HEAD
 8.	Сделать изменения test1 в локальном master branch и закоммитать их.
+=======
+7.	Через UI сделать изменение в test1 master branch.
+>>>>>>> e344dd52079ab1a6db548cb3ca38c60ec230b51a
