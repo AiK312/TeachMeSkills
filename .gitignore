@@ -1,2 +1,3 @@
 *.txt
 /SpecifyDirectory/*_temp/*
+/SpecifyDirectory/test_file
