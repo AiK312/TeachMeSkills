@@ -7,4 +7,4 @@ RUN echo "Hello from docker!" > /var/www/html/index.html
 
 CMD ["/usr/sbin/apache2ctl", "-D", "FOREGROUND"]
 
-EXPOSE 80
+EXPOSE 8080
